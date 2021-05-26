@@ -43,6 +43,7 @@ a {
   border: none;
   padding: 0.25rem;
   background-color: transparent;
+  cursor: pointer;
 }
 .dark-mode-toggle:focus {
   outline: none;
